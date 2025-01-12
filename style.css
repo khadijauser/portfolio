@@ -360,3 +360,12 @@ span {
     background: var(--main-color);
     transform: translateX(-50%);
 }
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.is-invalid {
+    border-color: red;
+}
